@@ -1,7 +1,4 @@
-/*
-  Written by Raymond Wong.
-  It is used for experimental setup.
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
